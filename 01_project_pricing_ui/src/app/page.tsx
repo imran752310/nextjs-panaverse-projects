@@ -2,7 +2,10 @@
 export default function Home() {
   return (
     
+
     <section className="flex flex-col items-center ">
+
+      
     {/* TOP SECTION  */}
     <div className="bg-[#6B46C1] h-[394px] text-gray-50 pt-[88px] lg:text-center pl-6 w-full">
       <h3 className="text-3xl lg:text-5xl leading-10 font-extrabold mb-5">
@@ -83,6 +86,11 @@ export default function Home() {
         </div>
       </div>
     </div>
+
+
+
+
+
   </section>
   );
 }
